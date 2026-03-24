@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project is a **Canvas App built using Microsoft Power Apps** that enables users to browse and order coffee machines from the Contoso Coffee catalog. The app demonstrates real-world business scenarios including product comparison, approval workflows, and data management using Dataverse and Power Automate.
+This is my **first Canvas App** built using Microsoft Power Apps. It is a beginner-level project where I created a coffee machine ordering system for Contoso Coffee. This app was developed as a learning project to explore the Power Platform, including Canvas Apps, Dataverse, Power Automate, and Model-driven Apps.
+
+Through this project, I learned how to build a complete business application from scratch — from designing the UI in Canvas Apps to setting up data tables in Dataverse and creating automated approval workflows using Power Automate.
 
 ## Features
 
@@ -92,7 +94,7 @@ cd PowerApps-Contoso-Coffee-Machine-Ordering
 
 ## Use Case
 
-This application demonstrates an end-to-end **machine ordering and approval system** for a retail coffee company. It includes:
+This application demonstrates a coffee machine ordering system built as a **learning project**. It covers:
 
 - Customer-facing product catalog and ordering system
 - Automated approval workflow using Power Automate
@@ -107,11 +109,29 @@ Grishma Chawla
 
 Give it a * on GitHub!
 
-## Learnings
+## My Learning Journey
 
-- Canvas App development in Power Apps
-- Dataverse table creation and relationships
-- Power Automate cloud flows for business processes
-- Model-driven apps for admin/procurement management
-- Approval workflows with Power Automate
-- Business Process Flow configuration
+This was my **first Canvas App** project and it was a great introduction to the Power Platform. Here is what I learned:
+
+- Building a Canvas App from scratch using drag-and-drop components
+- Creating and managing Dataverse tables and relationships
+- Designing automated workflows using Power Automate cloud flows
+- Building Model-driven apps for admin/procurement management
+- Implementing approval workflows with Power Automate
+- Configuring Business Process Flows for order tracking
+- Connecting apps with Microsoft Teams for notifications
+- Understanding the complete Power Platform ecosystem
+
+## Challenges Faced
+
+- Learning the Power Fx formula language for the first time
+- Understanding Dataverse table relationships and lookups
+- Debugging Power Automate flow errors
+- Designing a clean and user-friendly app layout
+
+## Future Improvements
+
+- Add more validation and error handling
+- Implement email notifications for order status
+- Add analytics dashboard for order trends
+- Expand the product catalog with more categories
